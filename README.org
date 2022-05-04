@@ -1,2 +1,21 @@
 #+title: Orgmode to HTML
+#+author: Santiago Pedroza
+
 This is a little org-mode parser made in Javascript.
+* Why?
+Because I was bored in my classes and started making an idea that came to my mind. 
+
+* TODOS
+
+- [ ] Add Latex support with Mathjax
+- [ ] Add support for tables
+- [ ] Add support for hyperlinks
+- [ ] Add support for TODO and DONE items.
+* DREAMS
+- [ ] Add support for recursive generation.
+
+* FIX
+- [ ] Multiple lines instead of a single long line when writing a paragraph.
+- [X] The numbered lists go insane.
+- [ ] Parse the lines correctly from beginning to end so you can actually use /italics/, *bold*, _underline_, +crossed+, ~this~, =code=, [[hyperlinks][https://news.ycombinator.com/]],
+and [[images.png]]

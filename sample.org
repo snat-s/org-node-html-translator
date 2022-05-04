@@ -5,11 +5,12 @@
 * Esto es un título
 ** Esto es un subtítulo
 *** Esto es otro subtítulo
+
 El texto que estoy presentando para que se vea como al go más o menos importante.
 
 Este es otro párrafo y la forma de diferenciarlo son los espacios en blanco.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, *consectetur adipiscing elit*, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. /Duis aute irure dolor in reprehenderit/ in voluptate =velit= esse cillum dolore eu fugiat [[https://www.gnu.org/software/emacs/][nulla]] pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 34 animales distintos hoy en día tienen mucha hambre.
 
@@ -21,9 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 + lista
 + mas
 
-1. esto 
-2. es 
-3. una
-4. lista 
-5. de 
-6. bulletpoints
+1. Un día muy lindo
+2. Parece que hoy va a llover
+3. El cielo se está nublando
+
+[[https://orgmode.org/resources/img/org-mode-unicorn.svg]]
+
+Miren, es otra linea normal.
+
+Este es otro párrafo y  [[https://www.gnu.org/software/emacs/][nulla]] la forma de diferenciarlo son los espacios en blanco.
